@@ -1,0 +1,2 @@
+# AndroidWifiStateWidget
+Android一个很简单，点击获取当前wifi局域网地址的小组件
