@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiState</string>
+    <string name="widget_description">check wifi ip address</string>
+    <string name="appwidget_text">tds_wifi_widget</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
